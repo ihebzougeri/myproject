@@ -1,4 +1,6 @@
 h1{
     color: rgb(0, 255, 234);
-    font-size: 12px;
-    border-bottom: 2px rgb(216, 241, 106) solid;}
+    font-size: 30px;
+    border-bottom: 2px rgb(216, 241, 106) solid;
+    text-align: center;
+}
